@@ -8,4 +8,4 @@
 - Email: [mritd@linux.com](mailto:mritd@linux.com)
 - GitHub: [https://github.com/mritd](https://github.com/mritd)
 - Telegram: [https://t.me/bleem_orz](https://t.me/bleem_orz)
-- Twitter: [https://twitter.com/mritd1234](https://twitter.com/mritd1234)
+- Twitter: [https://twitter.com/bleem_orz](https://twitter.com/bleem_orz)
