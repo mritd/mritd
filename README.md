@@ -1,6 +1,6 @@
 ## mritd
 
-![](./logo.svg)
+<img src="./logo.svg" alt="logo" width="300" height="300">
 
 - **生命不长，请抱着向死而生的信仰**
 
